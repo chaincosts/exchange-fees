@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "ChainCosts exchange withdrawal fee snapshot"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: ChainCosts
+    website: "https://chaincosts.com/data"
+license: CC-BY-4.0
+url: "https://chaincosts.com/data"
+repository-code: "https://github.com/chaincosts/exchange-fees"
