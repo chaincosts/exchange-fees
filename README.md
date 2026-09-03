@@ -9,6 +9,8 @@ Raw files on the site (same series, updated in place):
 - https://chaincosts.com/facts.csv
 - https://chaincosts.com/data/withdrawal-fees.json
 
+Hugging Face: https://huggingface.co/datasets/chaincosts/exchange-fees
+
 This repository is a citable mirror. Numbers come from each venue's own public fee page or public API. A missing venue is a venue that does not publish the number without a login, not a zero.
 
 ## Files
